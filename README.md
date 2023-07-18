@@ -1,5 +1,5 @@
 # Control Theory Bootcamp
-You are at my repository on the course of **Control Theory Bootcamp** offered by Electronics and Robotics Club under the Technical Summer School (TSS) of 7th Edition of Learners' Space, 
+You are at my repository on the course of **Control Theory Bootcamp** offered by Electronics and Robotics Club under the Technical Summer School (TSS) of 7th Edition of Learners' Space (2023), 
 an initiative by the Institute Technical Council (ITC) in collaboration with the Career Cell of Undergraduate Academic Council (UGAC) at ***IIT Bombay***.
 
 ## Description
